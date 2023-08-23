@@ -17,7 +17,12 @@ Payload: {
 ```
 Topic: v1/
 Payload: {
-
+    "action"    : "get",
+    "project"   : "6310301023",
+    "model"     : "Washing Machine",
+    "serial"    : "WSH-SN01",
+    "name"      : "get firmware",
+    "value"     : "20"
 }
 ```
 
@@ -25,7 +30,13 @@ Payload: {
 ```
 Topic: v1/
 Payload: {
-
+    "action"    : "get",
+    "project"   : "6310301023",
+    "model"     : "Washing Machine",
+    "serial"    : "WSH-SN01",
+    "name"      : "manufacture id",
+    "value"     : "A",
+    "location"  : "Rayong"
 }
 ```
 
@@ -33,7 +44,12 @@ Payload: {
 ```
 Topic: v1/
 Payload: {
-
+    "action"    : "set",
+    "project"   : "6310301023",
+    "model"     : "Washing Machine",
+    "serial"    : "WSH-SN01",
+    "name"      : "location",
+    "value"     : "Rayong"
 }
 ```
 
@@ -41,7 +57,12 @@ Payload: {
 ```
 Topic: v1/
 Payload: {
-
+    "action"    : "monitor",
+    "project"   : "6310301023",
+    "model"     : "Washing Machine",
+    "serial"    : "WSH-SN01",
+    "name"      : "wash_count",
+    "value"     : "154"
 }
 ```
 
@@ -49,6 +70,11 @@ Payload: {
 ```
 Topic: v1/
 Payload: {
-
+    "action"    : "set",
+    "project"   : "6310301023",
+    "model"     : "Washing Machine",
+    "serial"    : "WSH-SN01",
+    "name"      : "status",
+    "value"     : "main"
 }
 ```
