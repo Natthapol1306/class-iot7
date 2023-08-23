@@ -5,11 +5,11 @@
 Topic: v1/hw/get/washing-01/model-01/WSH-SN001
 Payload: {
     "action"    : "get",
-    "project"   : "washing-01",
-    "model"     : "model-01",
+    "project"   : "6310301023",
+    "model"     : "Washing Machine",
     "serial"    : "WSH-SN01",
     "name"      : "wash_count",
-    "value"     : "114"
+    "value"     : "154"
 }
 ```
 
@@ -17,7 +17,12 @@ Payload: {
 ```
 Topic: v1/
 Payload: {
-
+    "action"    : "get",
+    "project"   : "6310301023",
+    "model"     : "Washing Machine",
+    "serial"    : "WSH-SN01",
+    "name"      : "wash_count",
+    "value"     : "114"
 }
 ```
 
@@ -25,7 +30,12 @@ Payload: {
 ```
 Topic: v1/
 Payload: {
-
+    "action"    : "get",
+    "project"   : "6310301023",
+    "model"     : "Washing Machine",
+    "serial"    : "WSH-SN01",
+    "name"      : "wash_count",
+    "value"     : "114"
 }
 ```
 
@@ -33,7 +43,12 @@ Payload: {
 ```
 Topic: v1/
 Payload: {
-
+    "action"    : "get",
+    "project"   : "6310301023",
+    "model"     : "Washing Machine",
+    "serial"    : "WSH-SN01",
+    "name"      : "wash_count",
+    "value"     : "114"
 }
 ```
 
@@ -41,7 +56,12 @@ Payload: {
 ```
 Topic: v1/
 Payload: {
-
+    "action"    : "get",
+    "project"   : "6310301023",
+    "model"     : "Washing Machine",
+    "serial"    : "WSH-SN01",
+    "name"      : "wash_count",
+    "value"     : "114"
 }
 ```
 
@@ -49,6 +69,11 @@ Payload: {
 ```
 Topic: v1/
 Payload: {
-
+    "action"    : "get",
+    "project"   : "63103010231",
+    "model"     : "Washing Machine",
+    "serial"    : "WSH-SN01",
+    "name"      : "wash_count",
+    "value"     : "114"
 }
 ```
